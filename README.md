@@ -19,7 +19,7 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <b>Cloud/DevOps:</b>
 <br>
@@ -45,9 +45,11 @@
 
 <br>
 <br>
+
 ![Connect with Me](https://img.shields.io/static/v1?label=Connect%20&message=with%20Me:&color=white&style=for-the-badge&logoColor=black)
 <br>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/fernando-santello/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:fersrp1964@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=minutemailer&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fernando-santello/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:fersrp1964@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
