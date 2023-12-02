@@ -45,7 +45,7 @@
 
 <br>
 <br>
-![Connect with Me](https://img.shields.io/static/v1?label=Connect%20&message=with%20Me:&color=e122a0&style=for-the-badge&logoColor=black)
+![Connect with Me](https://img.shields.io/static/v1?label=Connect%20&message=with%20Me:&color=white&style=for-the-badge&logoColor=black)
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/fernando-santello/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
